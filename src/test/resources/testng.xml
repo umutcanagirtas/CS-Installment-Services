@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite-MizuUITestCases">
+
+    <test name="CicekSepetiApiCase">
+        <classes>
+            <class name="servicesTestCases.installmentServicesTestCases.InstallmentServicesTestCases"/>
+        </classes>
+    </test>
+</suite>
